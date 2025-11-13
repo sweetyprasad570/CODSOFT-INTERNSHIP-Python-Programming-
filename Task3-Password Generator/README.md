@@ -1,8 +1,10 @@
+CODSOFT-INTERNSHIP-Python-Programming
+
 ## 🔐 Password Generator
 
 A colorful, animated, and user-friendly Python Tkinter Password Generator that creates secure passwords of varying strength, with features to save, copy, and view passwords — plus a light/dark theme toggle for style lovers 🌈✨
 
-##✨ Features
+## ✨ Features
 
 ✅ Generate passwords with different strength levels — Easy, Medium, Strong
 
@@ -20,7 +22,7 @@ A colorful, animated, and user-friendly Python Tkinter Password Generator that c
 
 ✅ Error handling for invalid inputs
 
-##⚙️ How to Run
+## ⚙️ How to Run
 
 1️⃣ Make sure Python 3.x is installed on your system
 
@@ -35,7 +37,7 @@ python password_generator.py
 
 5️⃣ Enjoy your colorful password generator 🎨🔐
 
-##🧠 Password Strength Options
+## 🧠 Password Strength Options
 | **Option** | **Includes**               | **Example**  |
 | ---------- | -------------------------- | ------------ |
 | Easy       | Lowercase letters only     | `xjvprtkh`   |
@@ -43,7 +45,7 @@ python password_generator.py
 | Strong     | Letters + digits + symbols | `X7$pT@2!zQ` |
 
 
-##🔘 Button Functions
+## 🔘 Button Functions
 | **Button**        | **Function / Use**                         |
 | ----------------- | ------------------------------------------ |
 | Generate Password | Creates a new password                     |
@@ -54,7 +56,7 @@ python password_generator.py
 | Toggle Theme      | Switch between Light 🌞 and Dark 🌙 themes |
 
 
-##💻 Built With
+## 💻 Built With
 
 🐍 Python 3
 
@@ -64,6 +66,6 @@ python password_generator.py
 
 🔠 String and Random modules for password generation
 
-##📸 Preview
+## 📸 Preview
 
 🖼 Output Screenshot:
