@@ -7,11 +7,17 @@ A colorful and user-friendly Python Tkinter Calculator that performs basic and a
 ✨ Features
 
 ✅ Perform all basic operations — +, -, ×, ÷, %
+
 ✅ Square root function √
+
 ✅ Memory functions: M+, M-, MR, MC
+
 ✅ Clear (C) and backspace (←) buttons
+
 ✅ Colorful, modern, and responsive interface
+
 ✅ Error handling for invalid input
+
 ✅ Exit button to safely close the app
 
 ⚙️ How to Run
