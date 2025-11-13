@@ -32,7 +32,7 @@ A colorful and user-friendly Python Tkinter Calculator that performs basic and a
 
 4️⃣ Run the command:
 
-python smart_calculator.py
+python calculator.py
 
 
 5️⃣ Enjoy your calculator 🧮
