@@ -62,7 +62,9 @@ python smart_calculator.py
 
 ## 💻 Built With  
 Python
+
 Tkinter GUI
+
 Math module
 
 
