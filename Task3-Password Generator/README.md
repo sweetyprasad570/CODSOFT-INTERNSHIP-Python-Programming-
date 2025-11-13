@@ -69,7 +69,7 @@ python Password Generator.py
 ## 📸 Preview
 
 🖼 Output Screenshot:
-## 📸 Preview
 
-![App Screenshot](screenshots/screenshot%20(2).png)
+![Password Generator Preview](screenshot%20(2).png)
+
 
