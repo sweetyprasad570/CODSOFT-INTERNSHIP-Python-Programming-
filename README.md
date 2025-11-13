@@ -4,6 +4,7 @@
 
 A colorful and user-friendly Python Tkinter Calculator that performs basic and advanced math operations, with built-in memory features.
 
+
 ✨ Features
 
 ✅ Perform all basic operations — +, -, ×, ÷, %
@@ -20,6 +21,7 @@ A colorful and user-friendly Python Tkinter Calculator that performs basic and a
 
 ✅ Exit button to safely close the app
 
+
 ⚙️ How to Run
 
 1️⃣ Make sure Python is installed on your system
@@ -35,6 +37,7 @@ python smart_calculator.py
 
 5️⃣ Enjoy your calculator 🧮
 
+
 🧠 Memory Button Use
 
 Button	Function
@@ -47,10 +50,12 @@ MR	Recalls (shows) the stored memory value
 
 MC	Clears the stored memory
 
+
 💻 Built With
 Python
 Tkinter GUI
 Math module
+
 
 📸 Preview Idea
 ## 🖼 Output Screenshot
