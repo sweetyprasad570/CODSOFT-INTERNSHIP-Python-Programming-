@@ -26,7 +26,7 @@ A colorful, animated, and user-friendly Python Tkinter Password Generator that c
 
 1️⃣ Make sure Python 3.x is installed on your system
 
-2️⃣ Copy this code into a file named password_generator.py
+2️⃣ Copy this code into a file named Password Generator.py
 
 3️⃣ Open Command Prompt or Terminal
 
