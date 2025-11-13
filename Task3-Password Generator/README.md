@@ -1,4 +1,4 @@
-CODSOFT-INTERNSHIP-Python-Programming
+## CODSOFT-INTERNSHIP-Python-Programming
 
 ## 🔐 Password Generator
 
@@ -69,3 +69,4 @@ python password_generator.py
 ## 📸 Preview
 
 🖼 Output Screenshot:
+![Password Generator Output](screenshot.png)
