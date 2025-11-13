@@ -5,7 +5,7 @@
 A colorful and user-friendly Python Tkinter Calculator that performs basic and advanced math operations, with built-in memory features.
 
 
-✨ Features
+**✨ Features**
 
 ✅ Perform all basic operations — +, -, ×, ÷, %
 
