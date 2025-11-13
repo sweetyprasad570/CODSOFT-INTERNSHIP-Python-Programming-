@@ -23,8 +23,11 @@ A colorful and user-friendly Python Tkinter Calculator that performs basic and a
 ⚙️ How to Run
 
 1️⃣ Make sure Python is installed on your system
+
 2️⃣ Copy this code into a file named smart_calculator.py
+
 3️⃣ Open Command Prompt or Terminal
+
 4️⃣ Run the command:
 
 python smart_calculator.py
@@ -33,10 +36,15 @@ python smart_calculator.py
 5️⃣ Enjoy your calculator 🧮
 
 🧠 Memory Button Use
+
 Button	Function
+
 M+	Adds current value to memory
+
 M-	Subtracts current value from memory
+
 MR	Recalls (shows) the stored memory value
+
 MC	Clears the stored memory
 
 💻 Built With
