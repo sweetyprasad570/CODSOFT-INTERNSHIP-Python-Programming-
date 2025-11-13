@@ -32,7 +32,7 @@ A colorful, animated, and user-friendly Python Tkinter Password Generator that c
 
 4️⃣ Navigate to the file’s location and run the command:
 
-python password_generator.py
+python Password Generator.py
 
 
 5️⃣ Enjoy your colorful password generator 🎨🔐
@@ -69,4 +69,4 @@ python password_generator.py
 ## 📸 Preview
 
 🖼 Output Screenshot:
-![Password Generator Output](screenshot.png)
+![Password Generator Output](screenshot(2).png)
