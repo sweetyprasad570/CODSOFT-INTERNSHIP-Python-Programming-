@@ -26,13 +26,13 @@ A colorful and user-friendly Python Tkinter Calculator that performs basic and a
 
 1️⃣ Make sure Python is installed on your system
 
-2️⃣ Copy this code into a file named smart_calculator.py
+2️⃣ Copy this code into a file named Calculator.py
 
 3️⃣ Open Command Prompt or Terminal
 
 4️⃣ Run the command:
 
-python calculator.py
+python Calculator.py
 
 
 5️⃣ Enjoy your calculator 🧮
