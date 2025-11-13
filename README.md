@@ -1,11 +1,11 @@
 # CODSOFT-INTERNSHIP-Python-Programming-
 
-🧮 Smart Calculator
+## 🧮 Smart Calculator 
 
 A colorful and user-friendly Python Tkinter Calculator that performs basic and advanced math operations, with built-in memory features.
 
 
-**✨ Features**
+## ✨ Features  
 
 ✅ Perform all basic operations — +, -, ×, ÷, %
 
@@ -22,7 +22,7 @@ A colorful and user-friendly Python Tkinter Calculator that performs basic and a
 ✅ Exit button to safely close the app
 
 
-⚙️ How to Run
+## ⚙️ How to Run  
 
 1️⃣ Make sure Python is installed on your system
 
@@ -38,25 +38,34 @@ python smart_calculator.py
 5️⃣ Enjoy your calculator 🧮
 
 
-🧠 Memory Button Use
+## 🧠 Memory Button Use  
 
-Button	Function
+## 🔘 Button Functions
 
-M+	Adds current value to memory
+| **Button** | **Function / Use** |
+|-------------|--------------------|
+| `0–9` | Enter digits |
+| `+ , - , * , /` | Basic arithmetic operations |
+| `=` | Calculates the result |
+| `C` | Clears all input |
+| `←` | Deletes last character |
+| `√` | Finds square root |
+| `M+` | Adds current number to memory |
+| `M-` | Subtracts current number from memory |
+| `MR` | Shows stored memory value |
+| `MC` | Clears memory value |
+| `%` | Finds percentage |
+| `.` | Adds decimal point |
+| `Exit` | Closes the calculator |
 
-M-	Subtracts current value from memory
-
-MR	Recalls (shows) the stored memory value
-
-MC	Clears the stored memory
 
 
-💻 Built With
+## 💻 Built With  
 Python
 Tkinter GUI
 Math module
 
 
-📸 Preview Idea
+## 📸 Preview
 ## 🖼 Output Screenshot
 ![Smart Calculator Output](screenshot.png)
