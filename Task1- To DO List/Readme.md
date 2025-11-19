@@ -76,7 +76,7 @@ python todo.py
 
 ## 🖼 Output Screenshot
 
-[![To DO List Output](Screenshot(3).png)
+Task1- To DO List/Screenshot (3).png
 
 
 
