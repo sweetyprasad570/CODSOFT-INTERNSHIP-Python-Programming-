@@ -69,6 +69,6 @@ Random – Computer move selection
 
 ![Rock Paper Scissors GUI](Screenshot.png)
 
-## ▶️ Run the Command
+ ▶️ Run the Command
 
 python rockpaper.py
