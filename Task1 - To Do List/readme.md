@@ -1,77 +1,91 @@
-CODSOFT-INTERNSHIP-Python-Programming-
-🗒️ To-Do List (Task 1)
-A colorful and user-friendly Python Tkinter To-Do List app to add, edit, delete, search, and mark tasks done — with priority, time-stamp, and local JSON storage.
+# 📌 **To-Do List Application (Task 1)**
 
-✨ Features
-✅ Add new tasks
-✅ Mark tasks as done (✅)
-✅ Edit task title
-✅ Delete tasks (🗑)
-✅ Live search (🔍)
-✅ Priority levels: High / Medium / Low (🎚)
-✅ Automatic time-stamp for each task (🕒)
-✅ Tasks saved in tasks.json (📂)
-✅ Scrollable, card-styled UI with selection highlight (📜)
-✅ Clean and responsive Tkinter interface (🎨)
+A To-Do List application built using **Python** and **Tkinter**. This project helps users easily manage and organize their tasks by **adding, editing, deleting, searching**, and **marking tasks as done**. All tasks are saved in a **tasks.json** file for future use.
 
-⚙️ How to Run
-1️⃣ Make sure Python 3.8+ is installed.
-2️⃣ Save your code file as main.py (or todo.py) in one folder.
-3️⃣ Put tasks.json in the same folder (if you want initial tasks).
-4️⃣ Open Command Prompt / Terminal in that folder.
-5️⃣ Run:
+---
 
-python main.py
+## ⭐ **Features**
 
+* ➕ Add new tasks
+  
+* ✔ Mark tasks as done
+  
+* ✏ Edit existing tasks
+  
+* 🗑 Delete tasks
+  
+* 🔍 Search tasks
+  
+* 🎚 Set task priority (High, Medium, Low)
 
-5️⃣ Enjoy managing tasks!
+* 🕒 Automatic time tracking for each task
+  
+* 📂 Data stored safely in **tasks.json**
+  
+* 📜 Scrollable & card-styled UI
+  
+* 🎨 Clean and user-friendly Tkinter interface
 
-📝 How the App Works (Quick)
+---
 
-Type a task and choose priority → click ➕ ADD TASK to save.
+## 🛠 **Technologies Used**
 
-Click a task card to select it (selection is highlighted).
+* Python
+  
+* Tkinter (GUI Framework)
+  
+* JSON (for storing tasks)
+  
+* datetime module
 
-Use ✔ DONE, ✏ EDIT, 🗑 DELETE to manage selected task.
+---
 
-Search bar filters tasks as you type.
+## 🚀 **How to Run**
 
-All changes auto-save to tasks.json.
+1. Install **Python 3.8 or above**
+   
+3. Save all project files in the **same folder**
+   
+5. Open **Command Prompt / Terminal** in that folder
+   
+7. Run the command:
 
-🔘 Buttons / Controls (Reference)
+```
+python todo.py
+```
 
-Control	Action
-Task Entry	Type task title
-Priority Combobox	Set High / Medium / Low
-➕ ADD TASK	Add new task
-✔ DONE	Mark selected task done
-✏ EDIT	Edit selected task title
-🗑 DELETE	Delete selected task
-Search	Filter tasks live
-Task Card Click	Select task (shows highlight)
+---
 
-💻 Built With
+## 📝 **How the App Works**
 
-Python
+* Users type a task & choose priority
+  
+* Click **Add Task** to save
+  
+* Click any task card to select
+  
+* Use **Done / Edit / Delete** to update
+  
+* Search bar filters tasks **live**
+  
+* All updates auto-saved into **tasks.json**
 
-Tkinter (GUI)
+---
 
-JSON (local storage)
+## 📸 **Preview**
 
-datetime module
-
-📸 Preview
 Output screenshot (example):
-/mnt/data/b98d71e8-57f2-468d-8472-efdc8e972693.png
 
-💡 Future Enhancements (Optional)
+![Output Screenshot](/mnt/data/b98d71e8-57f2-468d-8472-efdc8e972693.png)
 
-Add categories and due dates
+---
 
-Reminder notifications
+## 💡 **Future Enhancements**
 
-Export/import (CSV)
-
-Light/dark theme toggle
-
-Sort/filter by priority or date
+* Add categories and due dates
+  
+* Reminder notifications
+  
+* Export/import (CSV)
+* Light/dark theme toggle
+* Sort/filter by priority or date
