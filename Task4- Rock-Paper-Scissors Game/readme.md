@@ -67,10 +67,8 @@ Random – Computer move selection
 
 ## 📸 Screenshot
 
-(Add your image here)
-
 ![Rock Paper Scissors GUI](Screenshot.png)
 
-## ▶️ Run the Game
+## ▶️ Run the Command
 
 python rockpaper.py
