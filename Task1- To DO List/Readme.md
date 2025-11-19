@@ -76,7 +76,7 @@ python todo.py
 
 ## 🖼 Output Screenshot
 
-![To-Do List Output](Screenshot(3).png)
+![To-Do List Output](Screenshot (3).png)
 
 
 
