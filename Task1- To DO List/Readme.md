@@ -75,8 +75,8 @@ python todo.py
 ## 📸 **Preview**
 
 ## 🖼 Output Screenshot
+![To-Do List Output](Task1%20-%20To%20Do%20List/Screenshot%20(3).png)
 
-![To-Do List Output](Screenshot (3).png)
 
 
 
@@ -92,6 +92,8 @@ python todo.py
 * Reminder notifications
   
 * Export/import (CSV)
+  
 * Light/dark theme toggle
+  
 * Sort/filter by priority or date
 
