@@ -76,7 +76,8 @@ python todo.py
 
 ## 🖼 Output Screenshot
 
-![To-Do List Output](Task1%20-%20To%20Do%20List/Screenshot%20(3).png)
+[![To-Do List Output](Task1%20-%20To%20Do%20List/Screenshot%20(3).png)](https://github.com/sweetyprasad570/CODSOFT-INTERNSHIP-Python-Programming-/blob/main/Task1%20-%20To%20Do%20List/Screenshot%20(3).png
+)
 
 
 
