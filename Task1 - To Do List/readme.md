@@ -76,7 +76,7 @@ python todo.py
 
 Output screenshot (example):
 
-![Output Screenshot](Screenshot (3).png)
+(Screenshot (3).png)
 
 ---
 
