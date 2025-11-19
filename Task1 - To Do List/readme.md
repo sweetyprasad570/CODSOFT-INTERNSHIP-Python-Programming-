@@ -76,7 +76,7 @@ python todo.py
 
 Output screenshot (example):
 
-![Output Screenshot](/mnt/data/b98d71e8-57f2-468d-8472-efdc8e972693.png)
+![Output Screenshot](Screenshot (3).png)
 
 ---
 
