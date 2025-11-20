@@ -73,6 +73,6 @@ Logical thinking
 
 Real-world mini projects
 
-⭐ Show Some Support!
+## ⭐ Show Some Support!
 
 If you like the work, star the repository ⭐ on GitHub!
