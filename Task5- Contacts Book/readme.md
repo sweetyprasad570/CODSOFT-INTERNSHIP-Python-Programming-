@@ -30,8 +30,8 @@ A beautiful, fully-featured contact management desktop application built using P
 
 🌈 Dynamic background transitions
 
-           # Documentation
 ## ▶️ How to Run
+
 Install Python 3
 
 Save your script as contact.py
