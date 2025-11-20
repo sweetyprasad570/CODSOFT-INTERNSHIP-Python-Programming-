@@ -72,7 +72,7 @@ With smooth UI color transitions.
 
 ## 📸 Output Screenshot
 
-![contact book Output](screenshot.png)
+![contact book Output](Screenshot.png)
 
 ## 🚀 Future Improvements
 
